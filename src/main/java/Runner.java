@@ -1,11 +1,9 @@
-package TicTacToe;
-
-import TicTacToe.model.Player;
+import model.Player;
 
 import java.util.Scanner;
 
-import static TicTacToe.utils.Constants.EXIT_CONDITION_TEXT;
-import static TicTacToe.utils.Constants.GAME_OVER_TEXT;
+import static utils.Constants.EXIT_CONDITION_TEXT;
+import static utils.Constants.GAME_OVER_TEXT;
 
 public class Runner {
 

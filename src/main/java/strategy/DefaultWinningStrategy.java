@@ -1,4 +1,4 @@
-package TicTacToe.strategy;
+package strategy;
 
 public class DefaultWinningStrategy implements WinningStrategy {
 

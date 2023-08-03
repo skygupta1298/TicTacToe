@@ -1,4 +1,4 @@
-package TicTacToe.strategy;
+package strategy;
 
 public interface WinningStrategy {
 

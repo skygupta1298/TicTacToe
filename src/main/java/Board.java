@@ -1,13 +1,11 @@
-package TicTacToe;
-
-import TicTacToe.model.Player;
-import TicTacToe.service.PrinterService;
-import TicTacToe.strategy.DefaultWinningStrategy;
-import TicTacToe.strategy.WinningStrategy;
+import model.Player;
+import service.PrinterService;
+import strategy.DefaultWinningStrategy;
+import strategy.WinningStrategy;
 
 import java.util.*;
 
-import static TicTacToe.utils.Constants.*;
+import static utils.Constants.*;
 
 public class Board {
 

@@ -1,4 +1,4 @@
-package TicTacToe.model;
+package model;
 
 public class Player {
     private final int id;
@@ -17,5 +17,9 @@ public class Player {
 
     public char getSymbol() {
         return symbol;
+    }
+
+    public int getId() {
+        return id;
     }
 }

@@ -1,4 +1,4 @@
-package TicTacToe.utils;
+package utils;
 
 public class Constants {
 
